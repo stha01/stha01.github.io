@@ -69,7 +69,7 @@ a:hover{
 .c1-img{ 
     float: left;
     margin-right: 30px;
-    border-radius: 55%;
+    border-radius: 25%
 
 }
    
@@ -110,4 +110,8 @@ a:hover{
 
   .copyright{
       font-size: x-small;
+  }
+
+  .uni{
+      color: #417D7A;
   }
